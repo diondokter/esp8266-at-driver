@@ -1,0 +1,8 @@
+[package]
+name = "esp8266-at-driver"
+version = "0.0.0"
+authors = ["Dion Dokter <diondokter@gmail.com>"]
+edition = "2018"
+license = "MIT OR Apache-2.0"
+
+[dependencies]
